@@ -1,7 +1,7 @@
 # Linux Capstone OSS Project
 
 **Submitted by:** Aditya Raj Sharma (24BCE10497)  
-**Institution:** VIT Bhopal
+
 
 ---
 
